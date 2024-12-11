@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/helios/Nyang/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "냥팜",
+    "description": "Nyangfarm Running Minecraft 1.20.1 (Fabric v0.16.9)",
+    "icon": "https://raw.githubusercontent.com/jay6977/nyang-distro/main/SealCircle.png",
+    "address": "nyangfarm.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": []
+}
