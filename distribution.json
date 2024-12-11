@@ -12,7 +12,7 @@
       "name": "냥팜",
       "description": "Nyangfarm Running Minecraft 1.20.1 (Fabric v0.16.9)",
       "icon": "https://raw.githubusercontent.com/jay6977/Nyangfarm-distro/main/serverImg.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "nyangfarm.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -276,6 +276,36 @@
             "size": 141604,
             "url": "https://raw.githubusercontent.com/jay6977/nyang-distro/main/servers/Nyangfarm-1.20.1/fabricmods/required/WI-Zoom-1.5-MC1.20.1.jar",
             "MD5": "a8631321ae0a6523a32ed51f6020f60c"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4812,
+            "url": "https://raw.githubusercontent.com/jay6977/nyang-distro/main/servers/Nyangfarm-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 5097,
+            "url": "https://raw.githubusercontent.com/jay6977/nyang-distro/main/servers/Nyangfarm-1.20.1/files/servers.dat",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 132,
+            "url": "https://raw.githubusercontent.com/jay6977/nyang-distro/main/servers/Nyangfarm-1.20.1/files/servers.dat_old",
+            "path": "servers.dat_old"
           }
         },
         {
